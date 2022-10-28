@@ -5,6 +5,5 @@ This project is a basic website that provides recipes for some dishes https://ww
 
 Skills demonstrated
  - creating html file
- - linkung multiple pages
+ - linking multiple pages
  - using html tags for heading, links, images, paragraphs and unordered/ordered lists
- 
